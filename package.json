@@ -1,0 +1,11 @@
+{
+  "name": "mit-email-spoof",
+  "version": "1.0.0",
+  "description": "POC for spoofing email \"from\" headers at MIT",
+  "main": "index.js",
+  "author": "Kye Burchard <kyeb@mit.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.6.5"
+  }
+}
